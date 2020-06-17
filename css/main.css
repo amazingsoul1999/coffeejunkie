@@ -1,0 +1,38 @@
+p {
+  color: #2a9d8f;
+  background-color: #264653;
+  font-size: 15px;
+  width: 900px;
+  font-family: monospace;
+}
+#heading {
+  color: #606c38;
+  background-color: #283618;
+  font-size: 70px;
+  width: 300px;
+  font-family: monospace;
+}
+body {
+  background-color: #e9c46a;
+}
+h1 {
+  color: #43aa8b;
+  background-color: #577590;
+  font-size: 30px;
+  width: 650px;
+  font-family: monospace;
+}
+h2 {
+  color: #02c39a;
+  background-color: #05668d;
+  font-size: 20px;
+  width: 250px;
+  font-family: monospace;
+}
+h3 {
+  color: #ffbe0b;
+  background-color: #fb5607;
+  font-size: 30px;
+  width: 150px;
+  font-family: monospace;
+}
